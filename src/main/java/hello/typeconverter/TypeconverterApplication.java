@@ -9,5 +9,4 @@ public class TypeconverterApplication {
   public static void main(String[] args) {
     SpringApplication.run(TypeconverterApplication.class, args);
   }
-
 }
